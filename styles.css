@@ -1,0 +1,98 @@
+body{
+  font-family: "Open Sans", sans-serif;
+  font-size: 12pt;
+  color: black;
+  line-height: 1.5;
+  font-weight: 400;
+}
+
+h1 {
+  text-transform: uppercase;
+  font-size: 14pt;
+  margin-top: 30px;
+  font-weight: 700;
+  color: black;
+  font-family: 'Lato', sans-serif;
+}
+
+
+
+h2,h3,h4,h5,h6 {
+  font-size: 12pt;
+  color: black;
+  font-family: 'Montserrat', sans-serif;  
+}
+
+.info_container {
+  width: 100%;
+  padding-right: 20px;
+  padding-left: 20px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 20px;
+  max-width: 1000px;
+}
+
+.info_container__photo{
+    width: 50%;
+    flex: 0 0 40%;
+    padding-right: 15px;
+    max-width: 40%;
+    margin-bottom: 50px;
+    font-size:10pt;
+    display: block;
+    text-align: center;
+    line-height: 0.5;
+    float:left;
+}
+
+.info_container__photo img{
+    margin:30px;
+}
+
+
+.info_container__text {
+    width: 50%;
+    flex: 0 0 40%;
+    margin: auto;
+    display: grid;
+}
+
+.info_container__name{
+  font-weight: bold;
+  font-size: 32px;
+  margin-top: 20px;
+  margin-bottom: 30px;
+  font-family: "Noto Sans", sans-serif;
+}
+
+.post_container{
+  width: 100%;
+  padding-right: 20px;
+  padding-left: 20px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 20px;
+  max-width: 800px;
+  
+}
+
+.post__title {
+  font-size: 16px;
+  color: black;
+  font-family: 'Montserrat', sans-serif;  
+  font-weight: 500;
+  margin-top: 20px;
+}
+
+.post__subtitle {
+  font-size: 14px;
+  font-weight: 400;
+  font-style: italic;
+  line-height: 3px;
+  font-family: 'Montserrat', sans-serif;  
+}
+
+        
+        
+

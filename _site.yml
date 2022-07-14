@@ -1,0 +1,12 @@
+name: "personal_website"
+output_dir: "."
+google_analytics: "G-HBCSFDN477"
+output:
+  html_document:
+    theme: paper
+    css: styles.css
+    highlight: textmate
+    includes:
+      in_header: header_tag.html
+      
+  
