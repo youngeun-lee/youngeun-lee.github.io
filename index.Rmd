@@ -16,18 +16,18 @@ pagetitle: "Youngeun Lee"
 <div class="info_container__photo">
 <img src="files/youngeun_lee_photo.jpg" style="width:70%" class = "img" alt = "text" />
 <p> My name is pronounced as YOUNG-n </p>
-<p> (sounds like "golden") </p>
+<p> (rhymes with "golden") </p>
 </div>
 <div class = "info_container__text" >
 
 <div class = "info_container__name"> Youngeun Lee </div>
 <p> Welcome! </p>
-<p> I am a Ph.D. candidate in Marketing at the Kellogg School of Management at Northwestern University. My research focuses on topics in pricing, branding, information, and behavioral economics. </p>
+<p> I am an Assistant Professor of Marketing at the Carroll School of Management of Boston College. My research focuses on topics in pricing, branding, information, and behavioral economics. </p>
 <p> </p>
 <p> </p>
-<p> Email: youngeun.lee [at] kellogg.northwestern.edu 
+<p> Email: youngeun.lee [at] bc.edu 
 
-[Curriculum Vitae](files/youngeun_lee_cv.pdf)
+
 </p>
 </div>
 </div>
@@ -42,7 +42,7 @@ pagetitle: "Youngeun Lee"
 # Research Interests 
 
 <div class="post__title">
-Quantitative Marketing, Pricing, Branding, Information, and Behavioral Economics
+Quantitative Marketing, Industrial Organization, Pricing, Branding, Information, and Behavioral Economics
 </div>
 
 
@@ -74,5 +74,11 @@ with Brett Gordon
 Persistent brand loyalists
 </div>
 
+<div class="post__title">
+Product reformulation
+</div>
+<div class="post__subtitle">
+with Caroline Wang
+</div>
 
 </div>
