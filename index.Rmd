@@ -7,78 +7,87 @@ pagetitle: "Youngeun Lee"
 
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&family=Merriweather&family=Montserrat:wght@300;600;700;800&family=Open+Sans:wght@300;400;600&display=swap');
-</style> 
+</style>
 
-<div style="padding: 40px 0 80px 0"> 
-       
-    
-<div class="info_container">
-<div class="info_container__photo">
-<img src="files/youngeun_lee_photo.jpg" style="width:70%" class = "img" alt = "text" />
-<p> My name is pronounced as YOUNG-n </p>
-<p> (rhymes with "golden") </p>
-</div>
-<div class = "info_container__text" >
+:::::::::::::::: {style="padding: 40px 0 80px 0"}
+:::::: info_container
+::: info_container__photo 
+<img src="files/youngeun_lee_photo.jpg" alt="text" class="img" style="width:70%; vertical-align=middle;" />
 
-<div class = "info_container__name"> Youngeun Lee </div>
-<p> Welcome! </p>
-<p> I am an Assistant Professor of Marketing at the Carroll School of Management of Boston College. My research focuses on topics in pricing, branding, information, and behavioral economics. </p>
-<p> </p>
-<p> </p>
-<p> Email: youngeun.lee [at] bc.edu 
+<p style ="margin-top: 20px; line-height: 1.4;">My name is pronounced as YOUNG-en</p>
 
+:::
+
+:::: info_container__text
+::: info_container__name
+Youngeun Lee
+:::
+
+<p>Welcome!</p>
+
+<p>I am an Assistant Professor of Marketing at the Carroll School of Management of Boston College. My research focuses on topics in pricing, product design, and behavioral economics. My current work seeks to improve firm and consumer decision-making in topics of product differentiation and pricing. 
+
+I hold a Ph.D. in marketing from Kellogg School of Management at Northwestern University, and a BA and MA in Statistics from Yonsei University. </p>
+
+<p>
 
 </p>
-</div>
-</div>
 
+<p>
 
-<div style = "clear:both;"></div>
+</p>
 
+<p style="margin-top: 20px;">Email: youngeun.lee [at] bc.edu</p>
+::::
+::::::
 
-<div class = "post_container"> 
+::: {style="clear:both;"}
+:::
 
+:::::::::: post_container
+# Research Interests
 
-# Research Interests 
-
-<div class="post__title">
+::: post__title
 Quantitative Marketing, Industrial Organization, Pricing, Branding, Information, and Behavioral Economics
-</div>
+:::
 
+# 
 
+# 
 
-#
+# 
 
-#
+# Research
 
-#
+::: post__title
+Shrinkflation: Evidence on product downsizing and consumer response [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5053745)] (Latest draft available upon request)
+:::
 
-# Research  
-
-<div class="post__title">
-Shrinkflation: Evidence on product downsizing and consumer response
-</div>
-<div class="post__subtitle">
+::: post__subtitle
 Job Market Paper
-</div>
+:::
 
 
-<div class="post__title">
-Information frictions and delays in add-on purchases
-</div>
-<div class="post__subtitle">
-with Brett Gordon
-</div>
+::: post__title
+Product Reformulation: A Suitable Substitute?
+:::
 
-<div class="post__title">
-Persistent brand loyalists
-</div>
-
-<div class="post__title">
-Product reformulation
-</div>
-<div class="post__subtitle">
+::: post__subtitle
 with Caroline Wang
-</div>
+:::
 
-</div>
+
+::: post__title
+Information frictions and delays in add-on purchases
+:::
+
+::: post__subtitle
+with Brett Gordon
+:::
+
+
+
+::::::::::
+::::::::::::::::
+
+
