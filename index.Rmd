@@ -9,13 +9,16 @@ pagetitle: "Youngeun Lee"
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&family=Merriweather&family=Montserrat:wght@300;600;700;800&family=Open+Sans:wght@300;400;600&display=swap');
 </style>
 
-:::::::::::::::: {style="padding: 40px 0 80px 0"}
+:::::::::::::: {style="padding: 40px 0 80px 0"}
 :::::: info_container
-::: info_container__photo 
-<img src="files/youngeun_lee_photo.jpg" alt="text" class="img" style="width:70%; vertical-align=middle;" />
+::: info_container__photo
+<img src="files/youngeun_lee_photo.jpg" alt="text" class="img" style="width:100%; vertical-align=middle;"/>
 
-<p style ="margin-top: 20px; line-height: 1.4;">My name is pronounced as YOUNG-en</p>
+<p style="margin-top: 20px; line-height: 1.4;">
 
+My name is pronounced as YOUNG-en LEE
+
+</p>
 :::
 
 :::: info_container__text
@@ -23,33 +26,31 @@ pagetitle: "Youngeun Lee"
 Youngeun Lee
 :::
 
-<p>Welcome!</p>
-
-<p>I am an Assistant Professor of Marketing at the Carroll School of Management of Boston College. My research focuses on topics in pricing, product design, and behavioral economics. My current work seeks to improve firm and consumer decision-making in topics of product differentiation and pricing. 
-
-I hold a Ph.D. in marketing from Kellogg School of Management at Northwestern University, and a BA and MA in Statistics from Yonsei University. </p>
-
 <p>
+
+Welcome! I am an Assistant Professor of Marketing at the Carroll School of Management of Boston College. My research focuses on topics in pricing, product design, and behavioral economics. My current work seeks to improve firm and consumer decision-making in topics of product differentiation and pricing.
+
+I hold a Ph.D. in marketing from Kellogg School of Management at Northwestern University, and a BA and MA in Statistics from Yonsei University.
 
 </p>
 
-<p>
 
+<p style="margin-top: 10px; line-height: 1.8;">
+    Email: youngeun.lee [at] bc.edu <br>
+    Office: Fulton Hall 450A <br> <br>
+  Curriculum Vitae is available [here](files/youngeun_lee_cv.pdf)
 </p>
 
-<p style="margin-top: 20px;">Email: youngeun.lee [at] bc.edu</p>
 ::::
 ::::::
 
 ::: {style="clear:both;"}
 :::
 
-:::::::::: post_container
+:::::::: post_container
 # Research Interests
 
-::: post__title
-Quantitative Marketing, Industrial Organization, Pricing, Branding, Information, and Behavioral Economics
-:::
+Quantitative Marketing, Industrial Organization, Pricing, Economics of Information, and Behavioral Economics
 
 # 
 
@@ -60,22 +61,19 @@ Quantitative Marketing, Industrial Organization, Pricing, Branding, Information,
 # Research
 
 ::: post__title
-Shrinkflation: Evidence on product downsizing and consumer response [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5053745)] (Latest draft available upon request)
+Shrinkflation: Evidence on product downsizing and consumer response (Job Market Paper)
 :::
 
-::: post__subtitle
-Job Market Paper
-:::
-
+-   [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5053745) (Latest draft available upon request)
+-   [FTC Conference Recording](https://www.ftc.gov/media/second-federal-trade-commission-conference-marketing-public-policy-october-18-2024)
 
 ::: post__title
-Product Reformulation: A Suitable Substitute?
+Product reformulation: a suitable substitute?
 :::
 
 ::: post__subtitle
-with Caroline Wang
+with Anna Tuchman, Caroline Wang
 :::
-
 
 ::: post__title
 Information frictions and delays in add-on purchases
@@ -84,10 +82,5 @@ Information frictions and delays in add-on purchases
 ::: post__subtitle
 with Brett Gordon
 :::
-
-
-
-::::::::::
-::::::::::::::::
-
-
+::::::::
+::::::::::::::
