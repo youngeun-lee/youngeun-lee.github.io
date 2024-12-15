@@ -22,9 +22,6 @@ pagetitle: "Youngeun Lee"
 ::: info_container__name
 Youngeun Lee
 :::
-
-<p>Welcome!</p>
-
 <p>I am an Assistant Professor of Marketing at the Carroll School of Management of Boston College. My research focuses on topics in pricing, product design, and behavioral economics. My current work seeks to improve firm and consumer decision-making in topics of product differentiation and pricing. 
 
 I hold a Ph.D. in marketing from Kellogg School of Management at Northwestern University, and a BA and MA in Statistics from Yonsei University. </p>
@@ -69,7 +66,7 @@ Job Market Paper
 
 
 ::: post__title
-Product Reformulation: A Suitable Substitute?
+Product reformulation: a suitable substitute?
 :::
 
 ::: post__subtitle
