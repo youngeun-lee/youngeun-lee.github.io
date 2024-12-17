@@ -16,8 +16,8 @@ pagetitle: "Youngeun Lee"
 
 <p>
 
-My name is pronounced as  <span class="nowrap">YOUNG-en LEE </span>
-
+My name is pronounced as <em>YOUNG-en</em>
+(like the <em>'en'</em> in <em>golden</em> or <em>garden</em>).
 </p>
 :::
 
