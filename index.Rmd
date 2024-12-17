@@ -14,9 +14,9 @@ pagetitle: "Youngeun Lee"
 ::: info_container__photo
 <img src="files/youngeun_lee_photo.jpg" alt="text" class="img" style="width:100%; vertical-align=middle;"/>
 
-<p style="margin-top: 20px; line-height: 1.4;">
+<p>
 
-My name is pronounced as YOUNG-en LEE
+My name is pronounced as  <span class="nowrap">YOUNG-en LEE </span>
 
 </p>
 :::
